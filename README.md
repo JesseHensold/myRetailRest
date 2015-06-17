@@ -1,7 +1,7 @@
 ##myRetailRest
 
 This is a basic REST api built on a MEAN stack.  It was generated with 'yo meanjs' and adapted to fit our **Product** model from the
-myRetail project
+[myRetail project](https://github.com/JesseHensold/myRetail)
 
 ####Setup/Usage
 
